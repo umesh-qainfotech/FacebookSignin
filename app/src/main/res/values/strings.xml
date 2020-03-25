@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookSignInFireBase</string>
+    <string name="facebook_app_id">830342880765506</string>
+    <string name="fb_login_protocol_scheme">fb830342880765506</string>
+    <string name="cancel_login">OnCancel</string>
+    <string name="error_login">onError</string>
+    <string name="welcome">welcome</string>
+    <string name="logout">logout</string>
+</resources>
